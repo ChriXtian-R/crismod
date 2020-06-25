@@ -1,0 +1,81 @@
+<html>
+  <head>
+    <style type='text/css'>
+		a            { color:#a0a0e0 }
+		div.title    { 
+			color:#BB0000; 
+			font-size:1.2em; 
+			font-weight:bold; 
+			margin-top:1em; 
+			margin-bottom:0.3em; 
+			text-align:center }
+		div.subtitle { 
+			color:#136b46; 
+			font-size:0.7em;
+			font-weight:bold;
+			margin-bottom:1em; 
+			text-align:center }
+		div.freetext { color:#444444 }
+		div.list     { color:#444444 }
+    </style>
+  </head>
+<body>
+$ 0.20.50L
+  % Version 0.20.50L
+  _ 14-May-2020
+$ 0.20.50L
+* New Base Updated to 2.20.157 Stable Base.
+* Group video and voice calls now support up to 8 participants. All participants need to be on the latest version of WhatsApp (2.20.14X and up)
+* Enabled All hidden features.
+* Ability to Send Messages to unsaved Number
+* Fixed Force Close on Some Devices.
+* Fixed unable Opening app after enable pirvacy options on Some Devices.
+* Fixed All bugs in package2 (com.wago)
+* Bugs fixes and speed improvements...
+$ 0.20.40L
+  % Version 0.20.40L
+  _ 16-April-2020
+$ 0.20.40L
+* New Base Updated to 2.20.123 Stable Base.
+* Ability to Pin 25 instead of 3 Chats.
+* Improved change color of (🚫) from grey to red.
+* Enabled All hidden features..
+* Fixed High Resolution images (Status).
+* Other fixes.
+$ 0.20.22L
+  % Version 0.20.22L
+  _ 22-Feb-2020
+$ 0.20.22L
+* New Base Updated to 2.20.47 Stable Base
+* Enabled Dark Mode (Stable!)
+* Added Click to Mark Status as Viewed
+* Enabled Animated Stickers
+* Enabled Animated Stickers Store
+* Increased Delete message time (delete for everyone) to 3 months
+* Added Option to Reset All Privacy Settings To Default (Open privacy settings and Click on 3 Dots at right Corner and click (reset privacy settings))
+* Increase Forward limit to 180 chats (USE AT OWN RISK!!!)
+* Added option to Disable "Forward" tag  
+* Know Deleted Status (🚫 next to time)
+* Improved Status Downloader (Now you have two ways : 1- download status via download button ,2- Open any Status and Click on 3 Dots at the right Corner then click download (Note: Support muted status))
+* Added Anti-Delete Status/Story option
+* Fixed Know which new messages are deleted in chat
+* Other fixes.
+$ 0.20.1
+  % Version 0.20.1
+  _ 12-Dec-2019
+$ 0.20.1
+* New Base Updated to 2.19.360 Stable Base
+* Added call waiting support so you can choose to accept an incoming WhatsApp call while you're already on another call.
+* Know which new messages are deleted in chat (🚫) (Note: Anti-Delete Messages must be activated)
+* New privacy settings allow you to control who can add you to groups. Go to Settings > Account > Privacy > Groups to get started.
+* Added option to share WhatsApp GO Edition with your friends..
+* Added option to Disable notification while playing voice notes
+* Enabled All hidden features..
+* Added Show Blue ticks after reply
+* Added Media Mods....
+* And More....
+
+            <br/>
+$ END_OF_CHANGE_LOG
+  </body>
+</html>
